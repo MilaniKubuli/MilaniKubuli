@@ -2,12 +2,6 @@
 
 **Aspiring Software Developer | Computer Science Student | Full-Stack Development**
 
-*Building clean code. Creating meaningful solutions.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20site-5B1025?style=flat-square&logo=vercel&logoColor=white)](https://milani-kubuli-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B1025?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milani-kubuli-5342012bb/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-5B1025?style=flat-square&logo=gmail&logoColor=white)](mailto:milanikubuli@gmail.com)
-
 ## About me
 
 I'm a final-year BSc Computer Science student at Eduvos who enjoys turning ideas into working applications. I especially like full-stack development: seeing the frontend, backend and data come together is like solving a puzzle.
